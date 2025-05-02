@@ -14,10 +14,16 @@ This project focuses on the comprehensive analysis of single-cell RNA sequencing
 **2. Dimensionality Reduction and Clustering**
 * Applied dimensionality reduction techniques such as PCA (Principal Component Analysis) and t-SNE (t-distributed Stochastic Neighbor Embedding).
 * Employed Leiden clustering for cell type identification.
+
+## t-SNE plot
+![tsne](https://github.com/jacinth360/human-muscle-scRNAseq.analysis/blob/main/t-SNE_MUSCLE.png)
   
 **3. Marker Gene Analysis**
 * Analyzed marker gene expression patterns to identify distinct cell types.
 * Generated a t-SNE plot and heatmap for visualization.
+
+## Heatmap
+![heatmap](https://github.com/jacinth360/human-muscle-scRNAseq.analysis/blob/main/Heatmap_MUSCLE.png)
 
 **4. Alignment with Reference Study**
 * Successfully aligned the results with a reference paper, revealing meaningful cellular relationships.
